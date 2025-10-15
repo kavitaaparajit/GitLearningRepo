@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 24A7-606E
+
+ Directory of C:\Users\Kavita\OneDrive\Desktop\Git Project
+
+15-10-2025  17:40    <DIR>          .
+15-10-2025  17:09    <DIR>          ..
+15-10-2025  17:39                 0 file2.html
+15-10-2025  17:21               399 index.html
+15-10-2025  17:20                 8 test1.txt
+15-10-2025  17:40               126 test2.txt
+               4 File(s)            533 bytes
+               2 Dir(s)   7,449,759,744 bytes free
